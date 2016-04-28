@@ -26,7 +26,8 @@
   "homepage": "https://github.com/jebrial/learnlink-koa-api#readme",
   "dependencies": {
     "koa": "^2.0.0",
-    "koa-router": "^7.0.1"
+    "koa-router": "^7.0.1",
+    "pg": "^4.5.5"
   },
   "devDependencies": {
     "babel-cli": "^6.7.7",

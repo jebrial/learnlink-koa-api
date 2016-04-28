@@ -2,3 +2,4 @@ node_modules
 todo.txt
 dist
 .DS_Store
+config.json
