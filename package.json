@@ -9,6 +9,7 @@
     "build": "babel lib -d dist",
     "serve": "nodemon dist/server.js"
   },
+  "engine": "node 6.2.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jebrial/learnlink-koa-api.git"
