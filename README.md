@@ -1,4 +1,3 @@
-[ ![Codeship Status for jebrial/learnlink-koa-api](https://codeship.com/projects/4ec49bc0-0736-0134-331f-5ea7a9e1d8e0/status?branch=master)](https://codeship.com/projects/154846)
 
 # LearnLink: a way to organize links to online study topics.
 ===========================================================
@@ -11,7 +10,7 @@ I have been doing a lot of studying online and I am constantly looking at sites 
 
 LearnLink will hopefully solve this problem. The basic idea is to allow you to manually enter a course name, some urls, notes, and then be able to keep track of progress based on priority and checkoff times.
 
-Do give an idea of how this works: 
+Do give an idea of how this works:
 
 Let's say you have added a few courses.  
 
