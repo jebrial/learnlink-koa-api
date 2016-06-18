@@ -4,14 +4,14 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-	"deploy": "npm run build; npm start",
+    "deploy": "npm run build; npm start",
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "nodemon lib/server.js --exec babel-node",
     "build": "babel lib -d dist",
     "start": "node dist/server.js"
   },
   "engines": {
-	  "node": "6.2.0"
+    "node": "6.2.0"
   },
   "repository": {
     "type": "git",
@@ -31,6 +31,7 @@
   "dependencies": {
     "babel-runtime": "^6.9.0",
     "koa": "^2.0.0",
+    "koa-bodyparser": "^3.1.0",
     "koa-router": "^7.0.1",
     "pg": "^4.5.5"
   },
